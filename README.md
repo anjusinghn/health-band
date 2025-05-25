@@ -1,2 +1,2 @@
 # health-band
-Medical checkup health band
+Medical checkup health band.
